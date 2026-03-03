@@ -65,4 +65,4 @@ Notebook obejmuje:
 - ewaluację (precision, recall, F1-score, confusion matrix),
 - optymalizację hiperparametrów.
 
-Model, który osiągnął najlepsze wyniki, został zapisany do pliku .pkl, co umożliwia jego ponowne wykorzystanie bez potrzeby ponownego trenowania (ze względu na rozmiar model znajduje się w best_rf.zip).
+Model, który osiągnął najlepsze wyniki, został zapisany do pliku .pkl, co umożliwia jego ponowne wykorzystanie bez potrzeby ponownego trenowania.
